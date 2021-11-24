@@ -2,4 +2,4 @@
 - 👀 I’m interested in digital art and game development.
 - 🌱 I’m currently learning C# and potentially Python.
 - 💞️ As of now, I'm not collaborating with any project.
-- 📫 Find me at Discord @ SkippiCannotFli#1984.
+- 📫 Find me at Discord @ Skippi#0425.
