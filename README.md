@@ -1,5 +1,5 @@
 - 😉 Hi, my name is @SkippiCannotCode.
 - 👀 I’m interested in digital art and game development.
 - 🌱 I’m currently learning C# and potentially Python.
-- 💞️ I’m collaborating on a Terraria mod with a friend.
+- 💞️ As of now, I'm not collaborating with any project.
 - 📫 Find me at Discord @ SkippiCannotFli#1984.
